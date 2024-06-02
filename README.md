@@ -10,4 +10,4 @@ While giving prompts, you can choose from the templates provided or the images, 
 [DEMO LINK](https://imaginer.vercel.app)
 
 
-[![imaginer](https://github.com/metinbicaksiz/imaginer/blob/main/assets/images/imaginer.png)
+![imaginer](https://github.com/metinbicaksiz/imaginer/blob/main/assets/images/imaginer.png)
